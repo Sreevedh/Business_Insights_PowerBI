@@ -41,6 +41,24 @@ To design and build a Financial Performance Dashboard for AtliQ Hardwares that e
 ![Dashboard Preview](Dashboard%20Screenshots/dashboard-overview.png)
 
 > This dashboard showcases the financial KPIs of AtliQ Hardwares, categorized by customer, product, and geography.
+> The home page
+![image](https://github.com/user-attachments/assets/9552fbb1-aafe-4778-91e7-f4e86a0e20e0)
+> Financial View
+![image](https://github.com/user-attachments/assets/f57c2d1d-ee89-4bae-af20-149cdcdf4610)
+> Sales View
+![image](https://github.com/user-attachments/assets/61d6dc43-ad45-4b2d-b4d9-f857db63cddd)
+> Marketing View
+![image](https://github.com/user-attachments/assets/2c2d4269-6f18-49ac-a1f6-9b53cd4eb145)
+> Supply Chain
+![image](https://github.com/user-attachments/assets/a83b5011-0325-4dce-99d6-1695acad2b92)
+> Executive View
+![image](https://github.com/user-attachments/assets/84f04946-5690-4514-abff-bcd822044824)
+
+
+
+
+
+
 
 ---
 
