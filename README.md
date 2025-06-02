@@ -11,14 +11,14 @@ To design and build a Financial Performance Dashboard for AtliQ Hardwares that e
 - Profit & Loss Statements
 - Gross Margin across products and customers
 - Financial trends across multiple countries and timeframes
-- KPIs such as Net Sales, COGS, Gross Margin %, and more
+- KPIs such as Net Sales, Net Profit, Gross Margin %, and more
 
 ---
 
 ## 📂 Features & Deliverables
 
 ✔️ Cleaned and transformed raw financial data using **Power Query**  
-✔️ Modeled data tables using relationships and star schema  
+✔️ Modeled data tables using relationships, star schema and snowflake schema  
 ✔️ Created custom KPIs and metrics using **DAX**  
 ✔️ Designed a user-friendly dashboard with slicers, filters, and interactive visuals  
 ✔️ Delivered an executive-level view of financial health
@@ -32,6 +32,7 @@ To design and build a Financial Performance Dashboard for AtliQ Hardwares that e
 - **Power Query Editor**
 - Data Modeling (Star Schema)
 - Excel (for base data)
+- SQL ( where data is pulled fom initially)
 
 ---
 
