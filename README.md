@@ -87,7 +87,7 @@ To design and build a Financial Performance Dashboard for AtliQ Hardwares that e
 
 ## 📬 Let's Connect
 
-If you'd like to discuss the project or collaborate on BI/Analytics work, feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-profile/) or fork this repo and share your ideas!
+If you'd like to discuss the project or collaborate on BI/Analytics work, feel free to connect on [LinkedIn](www.linkedin.com/in/sreevedh-hareesh-96715a146) or fork this repo and share your ideas!
 
 ---
 
