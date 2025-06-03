@@ -54,22 +54,6 @@ To design and build a Financial Performance Dashboard for AtliQ Hardwares that e
 
 
 
-
-
-
----
-
-## 📁 Project Files
-
-| File/Folder | Description |
-|-------------|-------------|
-| `PBIX File/` | The complete Power BI report file |
-| `Dataset/` | (Optional) Clean version of the dataset or data schema |
-| `Dashboard Screenshots/` | Preview images of the dashboard |
-| `README.md` | Project documentation |
-
----
-
 ## 📈 Key Insights
 
 - Identified underperforming countries and customers
